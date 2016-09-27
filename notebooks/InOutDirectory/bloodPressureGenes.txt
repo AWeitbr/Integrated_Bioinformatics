@@ -1,0 +1,61 @@
+Phenotype description	Gene Start (bp)	Gene End (bp)	Associated Gene Name	Description	Ensembl Gene ID
+	75854518	75855346	Gm11256	predicted gene 11256 [Source:MGI Symbol;Acc:MGI:3650655]	ENSMUSG00000084253
+	75902260	75903155	Gm11241	predicted gene 11241 [Source:MGI Symbol;Acc:MGI:3652121]	ENSMUSG00000081844
+	76927311	76927655	Gm11246	predicted gene 11246 [Source:MGI Symbol;Acc:MGI:3651881]	ENSMUSG00000081656
+	76451231	76490113	RP24-316B1.1		ENSMUSG00000110373
+	76811555	76811791	Gm11244	predicted gene 11244 [Source:MGI Symbol;Acc:MGI:3651883]	ENSMUSG00000081936
+enhanced long term potentiation	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+abnormal spatial learning	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+impaired swimming	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+enhanced paired-pulse facilitation	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+premature death	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+abnormal eating behavior	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+decreased body weight	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+negative regulation of JAK-STAT cascade	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+positive regulation of dendrite morphogenesis	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+presynaptic membrane assembly	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+positive regulation of immune response	75941238	78211961	Ptprd	protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]	ENSMUSG00000028399
+	78211955	78214177	B230208B08Rik	RIKEN cDNA B230208B08 gene [Source:MGI Symbol;Acc:MGI:2442149]	ENSMUSG00000092492
+	76793729	76794122	Gm11243	predicted gene 11243 [Source:MGI Symbol;Acc:MGI:3652116]	ENSMUSG00000081890
+	76393154	76394092	Gm11252	predicted gene 11252 [Source:MGI Symbol;Acc:MGI:3651309]	ENSMUSG00000080780
+	76837779	76838815	Gm11245	predicted gene 11245 [Source:MGI Symbol;Acc:MGI:3651884]	ENSMUSG00000084090
+	76692143	76694599	Gm11242	predicted gene 11242 [Source:MGI Symbol;Acc:MGI:3652117]	ENSMUSG00000083050
+	78233986	78234927	Gm11260	predicted gene 11260 [Source:MGI Symbol;Acc:MGI:3651928]	ENSMUSG00000082351
+	78659858	78661588	Gm11261	predicted gene 11261 [Source:MGI Symbol;Acc:MGI:3650239]	ENSMUSG00000085840
+	78697652	78698928	Gm11262	predicted gene 11262 [Source:MGI Symbol;Acc:MGI:3650238]	ENSMUSG00000083629
+	79327708	79328456	Gm11263	predicted gene 11263 [Source:MGI Symbol;Acc:MGI:3651899]	ENSMUSG00000083496
+	79874351	79874753	Gm11409	predicted gene 11409 [Source:MGI Symbol;Acc:MGI:3652024]	ENSMUSG00000084248
+	80002331	80003388	Gm11407	predicted gene 11407 [Source:MGI Symbol;Acc:MGI:3651131]	ENSMUSG00000082179
+	80003396	80003914	Gm11408	predicted gene 11408 [Source:MGI Symbol;Acc:MGI:3651130]	ENSMUSG00000083076
+	80003989	80005131	Gm11410	predicted gene 11410 [Source:MGI Symbol;Acc:MGI:3652015]	ENSMUSG00000083219
+	80440398	80440881	Gm11406	predicted gene 11406 [Source:MGI Symbol;Acc:MGI:3651132]	ENSMUSG00000082555
+prenatal lethality complete penetrance	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal coat/hair pigmentation	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+perinatal lethality complete penetrance	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+diluted coat color	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+decreased eye pigmentation	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+decreased bleeding time	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+increased bleeding time	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal iris pigmentation	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal ear morphology	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal endocochlear potential	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal inner ear morphology	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal hearing physiology	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+decreased endocochlear potential	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal strial intermediate cell morphology	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal iris stroma morphology	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal iris morphology	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+iris atrophy	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+reduced female fertility	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+male infertility	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+abnormal behavior	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+decreased body size	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+acetoacetic acid metabolic process	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+melanin metabolic process	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+melanocyte differentiation	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+melanosome organization	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+increased ear pigmentation	80834123	80851719	Tyrp1	tyrosinase-related protein 1 [Source:MGI Symbol;Acc:MGI:98881]	ENSMUSG00000005994
+	80910646	80955628	Lurap1l	leucine rich adaptor protein 1-like [Source:MGI Symbol;Acc:MGI:106510]	ENSMUSG00000048706
+	79244587	79244709	Gm25836	predicted gene, 25836 [Source:MGI Symbol;Acc:MGI:5455613]	ENSMUSG00000089543
+	76958422	76958498	Gm23159	predicted gene, 23159 [Source:MGI Symbol;Acc:MGI:5452936]	ENSMUSG00000092829
+	78670147	78670232	Gm22262	predicted gene, 22262 [Source:MGI Symbol;Acc:MGI:5452039]	ENSMUSG00000089338
